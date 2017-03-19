@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree Tag Scan.Plugins", "Tree Tag Scan.Plugins.csproj", "{65CE5FB4-435E-7146-A74F-B1A9ADB19A09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree Tag Scan", "Tree Tag Scan.csproj", "{9FC21376-89D7-C768-84A3-1CFBC76435FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree Tag Scan.Editor", "Tree Tag Scan.Editor.csproj", "{69208D47-C8A0-A631-A15C-2697A4D969DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65CE5FB4-435E-7146-A74F-B1A9ADB19A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CE5FB4-435E-7146-A74F-B1A9ADB19A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CE5FB4-435E-7146-A74F-B1A9ADB19A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CE5FB4-435E-7146-A74F-B1A9ADB19A09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC21376-89D7-C768-84A3-1CFBC76435FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC21376-89D7-C768-84A3-1CFBC76435FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC21376-89D7-C768-84A3-1CFBC76435FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC21376-89D7-C768-84A3-1CFBC76435FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69208D47-C8A0-A631-A15C-2697A4D969DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69208D47-C8A0-A631-A15C-2697A4D969DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69208D47-C8A0-A631-A15C-2697A4D969DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69208D47-C8A0-A631-A15C-2697A4D969DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
