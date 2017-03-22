@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt6.Plugins", "TreasureHunt6.Plugins.csproj", "{05D2B958-3A01-8947-5BF9-B903490B30C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt6", "TreasureHunt6.csproj", "{9BB329AD-21CF-B483-F515-5BBFCBC3F6A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt6.Editor", "TreasureHunt6.Editor.csproj", "{D7D7AE7C-8510-C0FF-DFC9-B9B20B33559B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05D2B958-3A01-8947-5BF9-B903490B30C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D2B958-3A01-8947-5BF9-B903490B30C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D2B958-3A01-8947-5BF9-B903490B30C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D2B958-3A01-8947-5BF9-B903490B30C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB329AD-21CF-B483-F515-5BBFCBC3F6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB329AD-21CF-B483-F515-5BBFCBC3F6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB329AD-21CF-B483-F515-5BBFCBC3F6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB329AD-21CF-B483-F515-5BBFCBC3F6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7D7AE7C-8510-C0FF-DFC9-B9B20B33559B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D7AE7C-8510-C0FF-DFC9-B9B20B33559B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D7AE7C-8510-C0FF-DFC9-B9B20B33559B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D7AE7C-8510-C0FF-DFC9-B9B20B33559B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
